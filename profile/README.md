@@ -33,3 +33,4 @@ NB: For Typescript and Javascript projects, we encourage the use of prettier for
 - After working on a feature and updating a branch, create a pull request to merge into develop branch. Develop branch will merge the changes after testing that the code works correctly.
 - Commit messages should always describe what changes were made to a code or what new features were added.
 - Master/Main should only contain WORKING, PRODUCTION code and can ONLY BE UPDATED by develop branch after all aspects of the new changes has been reviewed properly.
+- Bugs should be reported as issues in Github and may also be reported in Asana, the corresponding pull request should reference the parent issue or Asana task.
